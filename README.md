@@ -16,9 +16,10 @@
 ## Versión del código:
 
 Dependiendo del cambio, le sumaremos un número al campo correspondiente [major|minor|bug], además de una pequeña descripción.
-    1. Bug: cualquier error que haya sido resuelto, caso especial. 
-    2. Minor: un avance pequeño al código.
-    2. Major: un avance grande al código.
+
+1. Bug: cualquier error que haya sido resuelto, caso especial. 
+2. Minor: un avance pequeño al código.
+3. Major: un avance grande al código.
 
 * |1.0.0| La estructura del proyecto fue creada. 
 
