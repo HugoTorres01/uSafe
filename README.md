@@ -13,7 +13,7 @@
     EJEMPLO_NOMBRE_CONSTANTE
     ```
 
-## Versión del código:
+### Versión del código acuerdos:
 
 Dependiendo del cambio, le sumaremos un número al campo correspondiente [major|minor|bug], además de una pequeña descripción.
 
@@ -21,5 +21,7 @@ Dependiendo del cambio, le sumaremos un número al campo correspondiente [major|
 2. Minor: un avance pequeño al código.
 3. Major: un avance grande al código.
 </br>
+
+## Versión del código:
 * |1.0.0| La estructura del proyecto fue creada. 
 
