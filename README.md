@@ -20,6 +20,6 @@ Dependiendo del cambio, le sumaremos un número al campo correspondiente [major|
 1. Bug: cualquier error que haya sido resuelto, caso especial. 
 2. Minor: un avance pequeño al código.
 3. Major: un avance grande al código.
-
+</br>
 * |1.0.0| La estructura del proyecto fue creada. 
 
